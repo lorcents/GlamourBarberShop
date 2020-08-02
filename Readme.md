@@ -1,4 +1,5 @@
 # How to run the glamour babour shop management system
+### click here to see live http://glamourbarbershop.epizy.com
 
 1. Download the zip file or clone the repo
 
